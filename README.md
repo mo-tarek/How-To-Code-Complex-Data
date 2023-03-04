@@ -1,2 +1,79 @@
-# How-To-Code-Complex-Data
-Part 2
+Table of Contents 
+- Duplicated 
+- 7: mutual reference module overview 
+  - module overview 
+  - mutually recursive data 
+  - templating mutual recursion
+  - functions on mutually recursion data 1 
+  - functions on mutually recursive data 2 
+  - backtracking search 
+  - practice problems 
+  - quiz 
+- 8a: two one-of types 
+  - module overview 
+  - cross product table 
+  - cross product code 
+  - practice problems 
+- 8b: local 
+  - module overview 
+  - introduction
+  - forming & intuition
+  - lexical scoping 
+  - evaluation rules 
+  - encapsulation
+  - avoding recomputation
+  - practice problems 
+  - design quiz 
+- 9: abstraction
+  - module overview 
+  - introduction
+  - form ex 1 
+  - from ex 2 
+  - from ex 3 
+  - using built-in abstract functions 
+  - closures 
+  - fold functions 
+  - practice problems 
+  - quiz 
+- 10a: generative recursion
+  - module overview 
+  - introduction 
+  - fractals 
+  - termination arguments 
+  - practice problems 
+- 10b: search 
+  - module overview 
+  - lambda expressions 
+  - introduction
+  - sudoku - terminology 
+  - sudoku - data definitions & primitives 
+  - sudoku - the search intuition
+  - sudoku - template blending 
+  - sudoku - making the wish list 
+  - sudoku - making the wish list come true 
+  - sudoku - making the wish list come true 
+  - sudoku - making the wish list come true 
+  - quiz 
+  - video contest 
+- 11: accumulators 
+  - module overview 
+  - context prserving accumulators 
+  - sample problem: skpn 
+  - tail recursion
+  - worklist 
+  - worklist 
+  - practice problems 
+  - quiz 
+- 12: graphs 
+  - module overview 
+  - introduction
+  - constructing cyclic data 
+  - templating 
+  - problem: reachable? 
+  - practice problems 
+- Duplicated 
+- worked problems 
+  - merge sort 
+  - video contest 
+- final projects 
+- instructor Q & A 
